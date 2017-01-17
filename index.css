@@ -1,5 +1,5 @@
 body {
-    background-color: ;
+    background-color:#D2B48C;
 }
 
 h1, h2, h3 {
@@ -17,7 +17,7 @@ img {
 	height: 250px;
 	width: 250px;
 	float: right
-	border: 8px solid ;
+	border: 8px solid ;	
 	box-shadow: 12 8 12 #D2B48C
 }
 
