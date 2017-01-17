@@ -1,9 +1,30 @@
-Body {
-	background-color: #fff8dd;
-	margin-right: 220px;
-	margin-left" 220px;
-		
+body {
+    background-color: lightblue;
 }
 
+h1, h2, h3 {
+    color: #ff8000;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+}
+
+img {
+	height: 250px;
+	width: 250px;
+	float: right
+	border: 8px solid #ff6666;
+	box-shadow: 12 8 12 #8000ff;
+}
+
+div.contact{
+	
+	background: #b34dd4;
+	border: 1px solid #b34d4d;
+	
 
 
