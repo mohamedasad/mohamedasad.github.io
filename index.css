@@ -4,7 +4,7 @@ body {
 }
 div.contact {
     border-style: solid;
-	border-width 20px
+	border-width 40px
 }
 div.fixed {
     position: fixed;
@@ -13,8 +13,7 @@ div.fixed {
     width: 300px;
     border: 3px solid #73AD21;
 }
-
-
+<IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" SRC="https://pbs.twimg.com/media/CkuQRJUUgAIbvPf.jpg">
 h1, h2, h3, h4 {
     color: #b3ffff;
     text-align: center;
