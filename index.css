@@ -1,42 +1,4 @@
-body {
-	background-color: #DBC3A3
-
-}
-div.contact {
-    border-style: solid;
-	border-width 40px
-	border-color: #ee7d0a #a0d7ee;}
-div.fixed {
-    position: fixed;
-    bottom: 0;
-    right: 0;
-    width: 300px;
-    border: 3px solid #ee7d0a;
-}
-<IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" SRC="https://pbs.twimg.com/media/CkuQRJUUgAIbvPf.jpg">
-h1, h2, h3, h4 {
-    color: #ee7d0a;
-    text-align: center;
-}
-
-p {
-    font-family: Comic Sans MS;
-    font-size: 20px;
-}
-}
-
-img {
-	height: 250px;
-	width: 250px;
-	float: right
-	border: 8px solid ;	
-	box-shadow: 12 8 12 #D2B48C
-}
-
-div.contact{
-	
-	background: ;
-	border: 1px solid #3A3227
-	
+.summary {
+  padding: 20px;
 
 
