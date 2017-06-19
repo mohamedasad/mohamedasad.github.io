@@ -22,6 +22,7 @@ body{
 .sub-heading {  font-weight: bold;
 9}
 
+
 .duration {
   color: #5da4d9;
   font-size: 12px;
@@ -71,6 +72,44 @@ img {
 			font-weight: bold;	
 
 		}
+
+
+.profile-basic {
+			position: absolute;
+			bottom: 0px;
+			left: 50px;
+		}
+
+		.profile-info {
+			padding: 20px 10px;
+			border-bottom: 1px solid #4783c2;
+		}
+
+		 .profile-info p{
+			margin-left: 10px;
+			display: inline-block;
+			vertical-align: top;
+		}
+
+		.profile-info .key{
+			font-weight: bold;	
+		}
+
+		.profile-info .value{
+		}
+    
+		.social-media:hover{
+			cursor: pointer;
+			color: white;
+		}
+
+
+
+
+
+
+
+
 	.content {
 			width: 48%;
 			margin-left: 2%;
