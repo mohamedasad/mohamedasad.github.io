@@ -1,6 +1,6 @@
 	
 body{
-			background: #green;
+			background: ##eae8e7;
 
 			color: #000080;
 
@@ -25,10 +25,10 @@ body{
   color: #5da4d9;
   font-size: 12px;
 }
-9	.Leftsidebar {
+	.Leftsidebar {
 		font-family: 18px;
 			width:30%;
-			display: inline-block;			margin-left: 5%;
+			display: inline-block;			margin-left: 10%;
 
 			background: #5da4d9;
 
