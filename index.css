@@ -6,3 +6,10 @@ body {
 			font-family: verdana, sans-serif;
 		}
 
+	.sidebar {
+			width:30%;
+			display: inline-block;
+			margin-left: 10%;
+			background: #5da4d9;
+			color: white;
+		}
