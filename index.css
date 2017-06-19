@@ -20,13 +20,7 @@ img {
 			width: 100%;
 		}
 
-.profile-infoMe .xxx{
-		}
-    
-		.social-media:hover{
-			cursor: pointer;
-			color: white;
-		}
+}
 
 
 .profile-mine{
@@ -41,3 +35,12 @@ img {
 	.profile-infoMe .type{
 			font-weight: bold;	
 		}
+
+
+.profile-infoMe .xxx{
+		}
+    
+		.social-media:hover{
+			cursor: pointer;
+			color: white;
+		
