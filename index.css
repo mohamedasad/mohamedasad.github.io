@@ -19,6 +19,16 @@ body {
 img {
 			width: 100%;
 		}
+
+.profile-infoMe .xxx{
+		}
+    
+		.social-media:hover{
+			cursor: pointer;
+			color: white;
+		}
+
+
 .profile-mine{
 			position: absolute;
 			bottom: 0px;
