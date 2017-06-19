@@ -1,4 +1,12 @@
-body {
+	<div class="content">
+			<div class="work-experience">
+				<h1 class="heading"> Work Experience</h1>
+				<div class="info">
+					<p class="sub-heading">UI/UX Designer @Academy</p>
+					<p class="duration">JAN 2016 - DEC 2016</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua.</p>
+				</div>body {
 
 			background: #blue;
 
@@ -62,4 +70,9 @@ img {
 			font-weight: bold;	
 
 		}
-
+	.content {
+  width: 48%;
+  margin-left: 2%;
+  display: inline-block;
+  vertical-align: top;
+}
