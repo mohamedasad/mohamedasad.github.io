@@ -1,45 +1,89 @@
 body {
+
 			background: #blue;
+
 			color: #767270;
+
 			padding: 1%;
+
 			font-size: 14px;
+
 			font-family: verdana, sans-serif;
+
 		}
+
+
 
 	.Leftsidebar {
+
 			width:30%;
+
 			display: inline-block;
+
 			margin-left: 98%
+
 			background: #5da4d9;
+
 			color: white;
+
 		}
+
 .Leftsidebar-top { position: relative; }
+
 	
 
+
+
 img {
+
 			width: 100%	}
+
+
 
 }
 
 
+
+
+
 .profile-mine{
+
 			position: absolute;
+
 			bottom: 0px;
+
 			left: 50px;
+
 		}
+
 .profile-infoMe {
+
 			padding: 20px 10px;
+
 			border-bottom: 1px solid #4783c2;
+
 		}
+
 	.profile-infoMe .type{
+
 			font-weight: bold;	
+
 		}
+
+
+
 
 
 .profile-infoMe .xxx{
+
 		}
+
     
+
 		.social-media:hover{
+
 			cursor: pointer;
+
 			color: grey;}
+
 		
