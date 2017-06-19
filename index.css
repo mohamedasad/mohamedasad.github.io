@@ -20,7 +20,7 @@ body {
 
 			display: inline-block;
 
-			margin-left: 98%
+			margin-left: 10%;
 
 			background: #5da4d9;
 
@@ -36,15 +36,9 @@ body {
 
 img {
 
-			width: 100%	}
+			width: 100%;
 
-
-
-}
-
-
-
-
+		}
 
 .profile-mine{
 
@@ -63,27 +57,3 @@ img {
 			border-bottom: 1px solid #4783c2;
 
 		}
-
-	.profile-infoMe .type{
-
-			font-weight: bold;	
-
-		}
-
-
-
-
-
-.profile-infoMe .xxx{
-
-		}
-
-    
-
-		.social-media:hover{
-
-			cursor: pointer;
-
-			color: grey;}
-
-		
