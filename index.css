@@ -19,3 +19,8 @@ body {
 img {
 			width: 100%;
 		}
+.profile-mine{
+			position: absolute;
+			bottom: 0px;
+			left: 50px;
+		}
