@@ -29,8 +29,7 @@ body{
 		font-family: 18px;
 			width:30%;
 
-			display: inline-block;
-			margin-left: 5%;
+			display: inline-block;			margin-left: 5%;
 
 			background: #5da4d9;
 
@@ -73,7 +72,7 @@ img {
 
 		}
 	.content {
-  width: 95%;
+  width: 40%;
   margin-left: 80%;
   display: inline-block;
   vertical-align: right;
