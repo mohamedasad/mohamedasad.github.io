@@ -24,3 +24,7 @@ img {
 			bottom: 0px;
 			left: 50px;
 		}
+.profile-info {
+			padding: 20px 10px;
+			border-bottom: 1px solid #4783c2;
+		}
