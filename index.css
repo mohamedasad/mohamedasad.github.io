@@ -21,7 +21,19 @@
 		}
 
 
+.info {
+  padding: 2% 1%;
+  border-bottom: 1px solid #bdbdbd;
+}
 
+.sub-heading {
+  font-weight: bold;
+}
+
+.duration {
+  color: #5da4d9;
+  font-size: 12px;
+}
 	.Leftsidebar {
 		font-family: 18px;
 			width:30%;
