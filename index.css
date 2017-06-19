@@ -18,8 +18,7 @@ body{
   border-bottom: 1px solid #bdbdbd;
 }
 
-.sub-heading {
-  font-weight: bold;
+.sub-heading {  font-weight: bold;
 }
 
 .duration {
@@ -74,9 +73,10 @@ img {
 			font-weight: bold;	
 
 		}
-	
-.container {
-    position: relative;
-    left: 30px;
-    border: 3px solid #73AD21;
-} 
+	.content {
+  width: 48%;
+  margin-left: 2%;
+  display: inline-block;
+  vertical-align: top;
+}
+
