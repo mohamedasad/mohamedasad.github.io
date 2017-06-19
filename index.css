@@ -122,3 +122,12 @@ img {
 			background: white;
 			box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 		}
+	.infos {
+			padding: 2% 1%;
+			border-bottom: 1px solid #bdbdbd;
+		}
+    
+
+		.sub-heading { 
+      font-weight: bold;       
+    }
